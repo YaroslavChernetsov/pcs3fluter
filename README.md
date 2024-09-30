@@ -1,16 +1,5 @@
-# flutter_application_1
+Чернецов Ярослав ЭФБО-05-22
+# flutter_application_3
+![Снимок экрана (218)](https://github.com/user-attachments/assets/b86dcb20-354a-40f1-b9e0-ab93aafe360c)
+![Снимок экрана (220)](https://github.com/user-attachments/assets/06542781-d28a-4a41-ac18-6215e2eb1290)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
